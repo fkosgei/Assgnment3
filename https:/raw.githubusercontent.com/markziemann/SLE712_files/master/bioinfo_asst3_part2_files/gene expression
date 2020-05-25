@@ -1,0 +1,20 @@
+#gene expression
+#steps
+#file download and save it as "Gene expression.tsv
+download file(
+/
+https:
+/
+raw.githubusercontent.com
+/
+markziemann
+/
+SLE712_files
+/
+master
+/
+bioinfo_asst3_part2_files
+
+
+#reading in file 
+read.table(#gene expression)
